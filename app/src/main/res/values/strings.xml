@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="txt_correo">Correo electronico</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="txt_terminos">Acepto términos y condiciones</string>
+    <string name="txt_recordarContraseña">Recordar contraseña</string>
+    <string name="txt_btnIngresar">Ingresar</string>
+    <string name="txt_btnRegistrar">Registrar</string>
+</resources>
